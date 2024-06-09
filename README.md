@@ -2,8 +2,7 @@
 
 - 📚 Currently bringing multiple personal projects to life;
 - 💬 How to reach me: You can find me on [Instagram](https://www.instagram.com/gabrielgomescamara_/)!
-- 🌱 Pronouns: He/Him
-- 
+- 🌱 Pronouns: He/Him 
 ![Gabriel Camara's Github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
   
 <!--
